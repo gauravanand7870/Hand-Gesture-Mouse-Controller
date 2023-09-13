@@ -46,7 +46,7 @@ python main.py
 - Bring the index, middle, and ring fingers together for a right-click.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/gauravanand7870/Hand-Gesture-Mouse-Controller/blob/main/LICENSE) file for details.
 
 ## Acknowledgements
 - MediaPipe: For providing the robust solutions for hand tracking.
